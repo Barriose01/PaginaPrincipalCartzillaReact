@@ -1,6 +1,6 @@
 # Pagina principal de Cartzilla hecha con Bootstrap y React
 
-# Pagina original: https://themes.getbootstrap.com/preview/?theme_id=35287
+# Basado en la siguiente pagina: https://themes.getbootstrap.com/preview/?theme_id=35287
 
 ![image](https://github.com/Barriose01/PaginaPrincipalCartzillaReact/assets/107152796/66f84139-b983-484e-8217-eae49746b292)
 ![image](https://github.com/Barriose01/PaginaPrincipalCartzillaReact/assets/107152796/69b0c08e-3ade-47ed-8e3c-b4e516586370)
