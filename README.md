@@ -10,7 +10,7 @@
 
 ![image](https://github.com/Barriose01/PaginaPrincipalCartzillaReact/assets/107152796/777dbf94-43f5-46ef-ac4a-37d86f62ccfc)
 
-![image](https://github.com/Barriose01/PaginaPrincipalCartzillaReact/assets/107152796/b7bd8edf-a08c-4aae-9de1-2ebf0b6b6fd4)
+![image](https://github.com/Barriose01/PaginaPrincipalCartzillaReact/assets/107152796/bc153e6f-c604-4f06-bb66-af933fe6c44a)
 
 ![image](https://github.com/Barriose01/PaginaPrincipalCartzillaReact/assets/107152796/5e65f1db-a061-4dd5-b31f-f7e173b2bb53)
 
