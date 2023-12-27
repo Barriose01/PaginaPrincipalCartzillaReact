@@ -1,70 +1,21 @@
-# Getting Started with Create React App
+# Pagina principal de Cartzilla hecha con Bootstrap y React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Pagina original: https://themes.getbootstrap.com/preview/?theme_id=35287
 
-## Available Scripts
+![image](https://github.com/Barriose01/PaginaPrincipalCartzillaReact/assets/107152796/66f84139-b983-484e-8217-eae49746b292)
+![image](https://github.com/Barriose01/PaginaPrincipalCartzillaReact/assets/107152796/69b0c08e-3ade-47ed-8e3c-b4e516586370)
+![image](https://github.com/Barriose01/PaginaPrincipalCartzillaReact/assets/107152796/cbe0bce4-3d3e-4040-a6fb-72485dc93a6a)
 
-In the project directory, you can run:
+![image](https://github.com/Barriose01/PaginaPrincipalCartzillaReact/assets/107152796/ad9a53bb-83ee-4f3b-989d-531f1cc8440b)
 
-### `npm start`
+![image](https://github.com/Barriose01/PaginaPrincipalCartzillaReact/assets/107152796/777dbf94-43f5-46ef-ac4a-37d86f62ccfc)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![image](https://github.com/Barriose01/PaginaPrincipalCartzillaReact/assets/107152796/b7bd8edf-a08c-4aae-9de1-2ebf0b6b6fd4)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![image](https://github.com/Barriose01/PaginaPrincipalCartzillaReact/assets/107152796/5e65f1db-a061-4dd5-b31f-f7e173b2bb53)
 
-### `npm test`
+![image](https://github.com/Barriose01/PaginaPrincipalCartzillaReact/assets/107152796/54a3cca9-d591-4493-8eca-24960da213c7)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![image](https://github.com/Barriose01/PaginaPrincipalCartzillaReact/assets/107152796/204bcc0e-365b-4437-87cd-072ed55845a7)
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![image](https://github.com/Barriose01/PaginaPrincipalCartzillaReact/assets/107152796/00ce05ca-6fb5-464b-ac97-7e3a86b7514b)
